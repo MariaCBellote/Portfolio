@@ -58,6 +58,10 @@ div#c {
     font-size: 17px;
 }
 
+h3#tecnologias {
+    background-color: mediumpurple;
+}
+
 
 
 div#e {
@@ -78,7 +82,7 @@ img {
     left: 80%;
 }
 
-.li2 {
+.li3 {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -87,9 +91,9 @@ img {
     border-radius: 30px;
     border-color: mediumpurple;
     border-style: ridge;
-    }
+}
 
-.li2>li {
+.li3>li {
     float: left;
     margin: 0%;
     display: flex;
@@ -114,20 +118,25 @@ aside {
     margin: 20px;
 }
 
-section{
+section {
     margin: 20px;
 }
 
-thead{
+thead {
     background-color: rgba(187, 167, 219, 0.904);
 }
 
 ol {
     margin-bottom: 30px;
     border-color: rgb(160, 101, 226);
-    border-style:ridge;
+    border-style: ridge;
     padding-bottom: 25px;
     padding-left: 5%;
     margin-left: 20px;
-    margin-right:20px ;
-    }
+    margin-right: 20px;
+}
+
+.li2 {
+    margin-right: 60%;
+    margin-left: 5px;
+}
